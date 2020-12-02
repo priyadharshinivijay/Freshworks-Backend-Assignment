@@ -157,14 +157,3 @@ if(ch=='y'):
 	path=input("Enter the path : ")
 else:
 	path="file_store.txt"
-#choice=int(input("Enter the operations to be performed in file store: \n 1.Create \n 2.Read \n 3.Delete\n 4.Update\n"))
-#if(choice==1):
-#	create(path)
-#elif(choice==2):
-#	read(path)
-#elif(choice==3):
-#	delete(path)
-#elif(choice==4):
-#	update(path)
-#else:
-#	print("Enter the valid choice")
